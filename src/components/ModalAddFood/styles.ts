@@ -29,6 +29,7 @@ export const Form = styled(Unform)`
     flex-direction: row;
     align-items: center;
 
+
     .text {
       padding: 16px 24px;
     }
