@@ -72,6 +72,7 @@ const ModalAddFood: React.FC<IModalProps> = ({
           type="file"
           accept="image/*"
           onChange={(value) => selectFile(value)}
+          placeholder="Cole o link aqui"
         />
 
         <Input name="name" placeholder="Ex: Moda Italiana" />
